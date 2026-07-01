@@ -189,19 +189,13 @@ Customers are more likely to churn if they:
 ```text
 Customer-Churn-Prediction/
 │
-├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+├── Data/
+│   └── Telco-Customer-Churn.csv
 │
-├── notebooks/
-│   └── Customer_Churn_Prediction_Advanced.ipynb
+├── Notebook/
+│   └── customer_churn_prediction.ipynb
 │
-├── models/
-│   ├── customer_churn_model.pkl
-│   └── scaler.pkl
-│
-├── images/
-│
-├── requirements.txt
+├── Image/
 │
 ├── README.md
 │
